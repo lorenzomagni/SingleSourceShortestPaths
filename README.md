@@ -1,5 +1,5 @@
 # SingleSourceShortestPaths
-This is my final project for the course "Programming Languages" that I attended at Università degli Studi Milano Bicocca. It was a group project and I worked with two other people.
+This is my final project for the course "Programming Languages", which is part of the Informatics bachelor's degree, that I have attended during my second year at Università degli Studi Milano-Bicocca. It was a group project and I worked with two other people.
 
 ***DISCLAIMER:*** All the instructions and README files are written in Italian. The code on the other hand, is perfectly understandable by anyone.
 
